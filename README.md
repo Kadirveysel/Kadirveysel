@@ -1,7 +1,7 @@
 ## Hi there, I'm Kadir Veysel 👋
 
 🌱 I'm a computer science student and a passionate developer based in Turkey.
-🌱 I’m currently learning Python, C, Web Devolopment, AI, Cyber Secruity
+🌱 I’m currently learning Python, C, Web Devolopment, AI, Cyber Security
 
 ### 🛠️ Technologies & Tools
 * Python
