@@ -28,19 +28,3 @@
   <img src="https://img.shields.io/badge/Network-CCNA-00b0f0?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <a href="https://github.com/Kadirveysel">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kadirveysel&show_icons=true&theme=radical&count_private=true" alt="Kadirveysel GitHub Stats" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Kadirveysel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadirveysel&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
