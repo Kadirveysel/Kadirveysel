@@ -1,35 +1,46 @@
-## Hi there, I'm Kadir Veysel 👋
+### Merhaba, Ben Kadir Veysel Sayar! 👋
 
-🌱 I'm a computer science student and a passionate developer based in Turkey.
-🌱 I’m currently learning Python, C, Web Devolopment, AI, Cyber Security
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Cyber%20Security%20Analyst%20&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Student%20@%20Necmettin%20Erbakan%20University&descSize=20&descAlign=50&descAlignY=60" />
+</div>
 
-### 🛠️ Technologies & Tools
-* Python
-* HTML
-* CSS
-* C
-* Kali Linux
-* Cyber Security
+<br/>
 
+**Siber Güvenlik, Ağ Teknolojileri ve Python Otomasyonları** üzerine odaklanan bir Bilgisayar Bilimleri öğrencisiyim. Matematiksel altyapımı siber savunma stratejileriyle birleştirerek güvenli sistemler tasarlamayı hedefliyorum.
 
-### 🔗 Connect with me:
-* LinkedIn: [Kadir Veysel](https://www.linkedin.com/in/kadirveyselsayar/)
-* E-mail: [sayarkadirveysel@gmail.com](mailto:sayarkadirveysel@gmail.com)
+- 🔭 Şu an **SOC Analizi ve Zafiyet Tespiti** üzerine çalışıyorum.
+- 🌱 **Sızma Testleri (Penetration Testing)** ve **İleri Seviye Python** öğreniyorum.
+- 🎓 **Necmettin Erbakan Üniversitesi** - Matematik ve Bilgisayar Bilimleri.
+- 💼 Geçmiş Deneyim: **SOC Analisti Stajyeri @ Nesil Şirketler Grubu**
+- 📫 Bana ulaşın: **sayarkadirveysel@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kadirveyselsayar/)
 
+---
 
-### 📊 My GitHub Stats
-[![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadirveysel&show_icons=true&theme=radical)](https://github.com/Kadirveysel)
-<!--
-**Kadirveysel/Kadirveysel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Yetenekler & Araçlar
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-CCNA-00b0f0?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <a href="https://github.com/Kadirveysel">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kadirveysel&show_icons=true&theme=radical&count_private=true" alt="Kadirveysel GitHub Stats" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/Kadirveysel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadirveysel&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
