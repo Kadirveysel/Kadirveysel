@@ -1,15 +1,15 @@
 ### Merhaba, Ben Kadir Veysel Sayar! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Cyber%20Security%20Analyst%20&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Student%20@%20Necmettin%20Erbakan%20University&descSize=20&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Cyber%20Security%20and%20Developer%20&fontSize=60&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Student%20@%20Necmettin%20Erbakan%20University&descSize=20&descAlign=50&descAlignY=60" />
 </div>
 
 <br/>
 
 **Siber Güvenlik, Ağ Teknolojileri ve Python Otomasyonları** üzerine odaklanan bir Bilgisayar Bilimleri öğrencisiyim. Matematiksel altyapımı siber savunma stratejileriyle birleştirerek güvenli sistemler tasarlamayı hedefliyorum.
 
-- 🔭 Şu an **SOC Analizi ve Zafiyet Tespiti** üzerine çalışıyorum.
-- 🌱 **Sızma Testleri (Penetration Testing)** ve **İleri Seviye Python** öğreniyorum.
+- 🔭 Şu an **SOC Analizi ve AI** üzerine çalışıyorum.
+- 🌱 **İleri Seviye Python** öğreniyorum.
 - 🎓 **Necmettin Erbakan Üniversitesi** - Matematik ve Bilgisayar Bilimleri.
 - 💼 Geçmiş Deneyim: **SOC Analisti Stajyeri @ Nesil Şirketler Grubu**
 - 📫 Bana ulaşın: **sayarkadirveysel@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kadirveyselsayar/)
