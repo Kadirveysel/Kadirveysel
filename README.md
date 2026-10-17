@@ -15,7 +15,7 @@
 - 🔭 **LastGuard**'da Siber Güvenlik Analisti Stajyeri olarak çalışıyorum.
 - 🏆 **Siber Vatan** CTF maratonunda 34 çözümle 8.800 puan, yarı finalde (Mayıs 2026) **18. sıra**.
 - 💼 Geçmiş deneyim: **Stajyer Siber Güvenlik Analisti @ Nesil Teknoloji** (Eylül–Aralık 2025): web/ağ sızma testleri, OWASP Top 10 zafiyet raporlama.
-- 🔬 Akademik ilgi: **Medikal yapay zekâ modellerine yönelik adversarial saldırılar**.
+- 🔬 Akademik çalışma: **Medikal yapay zekâ modellerine yönelik adversarial saldırılar**.
 - 📫 İletişim: **sayarkadirveysel@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kadirveyselsayar/)
 
 > 🇬🇧 **In short:** Math & CS student focused on penetration testing and vulnerability management. Currently a threat intelligence intern (IOC analysis, Docker, IntelOwl), Siber Vatan CTF semi-finalist (18th), and author of Python security tools.
