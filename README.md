@@ -6,7 +6,7 @@
 
 **Necmettin Erbakan Üniversitesi Matematik ve Bilgisayar Bilimleri** öğrencisiyim (Ocak 2027 mezuniyet). Matematiksel altyapımı siber güvenlikle birleştiriyor, **saldırgan gibi düşünerek sistemleri savunmayı** hedefliyorum. Kariyer hedefim **sızma testi (penetration testing) ve zafiyet yönetimi**.
 
-- 🔭 **LastGuard**'da Siber Güvenlik Analisti Stajyeri olarak **IOC analizi** yapıyor, **Docker** ve **IntelOwl** ile tehdit istihbaratı üzerine çalışıyorum.
+- 🔭 **LastGuard**'da Siber Güvenlik Analisti Stajyeri olarak çalışıyorum.
 - 🏆 **Siber Vatan** CTF maratonunda 34 çözümle 8.800 puan, yarı finalde (Mayıs 2026) **18. sıra**.
 - 💼 Geçmiş deneyim: **Stajyer Siber Güvenlik Analisti @ Nesil Teknoloji** (Eylül–Aralık 2025): web/ağ sızma testleri, OWASP Top 10 zafiyet raporlama.
 - 🔬 Akademik ilgi: **Medikal yapay zekâ modellerine yönelik adversarial saldırılar**.
