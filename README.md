@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b248&height=200&section=header&text=Kadir%20Veysel%20Sayar&fontSize=52&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cyber%20Security%20%7C%20Penetration%20Testing%20%7C%20Python&descSize=20&descAlign=50&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b248&height=200&section=header&text=Kadir%20Veysel%20Sayar&fontSize=52&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cyber%20Security%20%7C%20Threat%20Intelligence%20%7C%20Python&descSize=20&descAlign=50&descAlignY=62" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Kadirveysel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B248&center=true&vCenter=true&width=640&lines=Penetration+Testing;Threat+Intelligence+%26+IOC+Analysis;Python+Security+Automation;CTF+Player+%7C+Siber+Vatan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B248&center=true&vCenter=true&width=640&lines=Cyber+Security;Threat+Intelligence+%26+IOC+Analysis;Python+Security+Automation;CTF+Player+%7C+Siber+Vatan" alt="Typing SVG" />
   </a>
 </div>
 
 ### Merhaba, ben Kadir Veysel! 👋
 
-**Necmettin Erbakan Üniversitesi Matematik ve Bilgisayar Bilimleri** öğrencisiyim (Ocak 2027 mezuniyet). Matematiksel altyapımı siber güvenlikle birleştiriyor, **saldırgan gibi düşünerek sistemleri savunmayı** hedefliyorum. Kariyer hedefim **sızma testi (penetration testing) ve zafiyet yönetimi**.
+**Necmettin Erbakan Üniversitesi Matematik ve Bilgisayar Bilimleri** öğrencisiyim (Ocak 2027 mezuniyet). Matematiksel altyapımı siber güvenlikle birleştiriyor, **güvenli sistemler tasarlamayı ve savunmayı** hedefliyorum.
 
 - 🔭 **LastGuard**'da Siber Güvenlik Analisti Stajyeri olarak çalışıyorum.
 - 🏆 **Siber Vatan** CTF maratonunda 34 çözümle 8.800 puan, yarı finalde (Mayıs 2026) **18. sıra**.
-- 💼 Geçmiş deneyim: **Stajyer Siber Güvenlik Analisti @ Nesil Teknoloji** (Eylül–Aralık 2025): web/ağ sızma testleri, OWASP Top 10 zafiyet raporlama.
+- 💼 Geçmiş deneyim: **Stajyer Siber Güvenlik Analisti @ Nesil Teknoloji** (Eylül–Aralık 2025): web ve ağ güvenliği analizi, OWASP Top 10 zafiyet raporlama.
 - 🔬 Akademik çalışma: **Medikal yapay zekâ modellerine yönelik adversarial saldırılar**.
 - 📫 İletişim: **sayarkadirveysel@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kadirveyselsayar/)
 
-> 🇬🇧 **In short:** Math & CS student focused on penetration testing and vulnerability management. Currently a threat intelligence intern (IOC analysis, Docker, IntelOwl), Siber Vatan CTF semi-finalist (18th), and author of Python security tools.
+> 🇬🇧 **In short:** Math & CS student focused on cybersecurity and threat intelligence. Currently a threat intelligence intern (IOC analysis, Docker, IntelOwl), Siber Vatan CTF semi-finalist (18th), and author of Python security tools.
 
 ---
 
